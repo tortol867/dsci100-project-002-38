@@ -1,4 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
-
-this is some new line.
+# dsci-100-project
+DSCI 100 Group Project repository. 
